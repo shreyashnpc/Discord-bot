@@ -45,7 +45,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/text-visual-bot.git
+git clone https://github.com/shreyashnpc/text-visual-bot.git
 cd text-visual-bot
 
 # 2. Install dependencies
