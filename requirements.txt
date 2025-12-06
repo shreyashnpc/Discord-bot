@@ -1,0 +1,6 @@
+requests>=2.31.0
+pyfiglet>=0.8.1
+art>=5.8
+
+
+
